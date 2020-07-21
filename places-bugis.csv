@@ -1,0 +1,512 @@
+Place,Address,Tags,url
+The Beast,17 Jalan Klapa Singapore 199329,"['Bars', 'Dinner With Drinks', 'Waffles', 'Good For Groups', 'Craft Beer', 'Burgers', 'Western', '1-For-1 Deals', 'Breakfast & Brunch']",https://www.burpple.com/the-beast-1
+Twenty Grammes (Bugis),753 North Bridge Road #01-01 Singapore 198721,"['Ice Cream & Yoghurt', 'Cafes & Coffee', 'Desserts', 'Waffles', '1-For-1 Deals']",https://www.burpple.com/twenty-grammes
+Brine,775 North Bridge Road Hotel Clover Singapore 198743,"['Date Night', 'Cafes & Coffee', 'Western', '1-For-1 Deals', 'Breakfast & Brunch']",https://www.burpple.com/brine-singapore
+Izakaya Hikari,190 Middle Road #03-01 Fortune Centre Singapore 188979,"['Japanese', '1-For-1 Deals']",https://www.burpple.com/izakaya-hikari
+Steeped Tea Bar,2 Tan Quee Lan Street #01-01 Singapore 188091,"['Desserts', 'Fruit Tea', '1-For-1 Deals']",https://www.burpple.com/steeped-tea-bar
+taan,30 Liang Seah Street #01-01 Singapore 189051,"['Buffets', 'Japanese', 'Dinner With Drinks', 'Supper', 'Late Night', 'BBQ', '1-For-1 Deals']",https://www.burpple.com/taan
+Symmetry,9 Jalan Kubor #01-01 Singapore 199206,"['Burpple Guides', 'Dinner With Drinks', 'Date Night', 'Cafes & Coffee', 'Western', 'Breakfast & Brunch']",https://www.burpple.com/symmetry
+Windowsill Pies (Haji Lane),17 Haji Lane Singapore 189210,"['Desserts', 'Cakes', '1-For-1 Deals']",https://www.burpple.com/windowsill-pies-haji-lane
+Chunky Lobsters (Bugis),200 Victoria Street #B1-K10 Bugis Junction Singapore 188021,"['Seafood', 'Hidden Gem', 'Cheap & Good', 'Good For Groups', '1-For-1 Deals']",https://www.burpple.com/chunky-lobster-bugis
+Mother Dough Bakery,749 North Bridge Road #01-01 Singapore 198717,"['Bread', 'Cafes & Coffee', 'Desserts']",https://www.burpple.com/mother-dough-bakery
+Man Fu Yuan,80 Middle Road Level 2 InterContinental Singapore Singapore 188966,"['Dim Sum', 'Buffets', 'Good For Groups', 'Chinese', '1-For-1 Deals']",https://www.burpple.com/man-fu-yuan
+Monarchs & Milkweed Gelato,802 North Bridge Road #01-01 Singapore 198770,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/monarchs-milkweed-gelato
+Pita Bakery,29 Bali Lane Singapore 189865,"['Middle Eastern', 'Vegetarian', 'Bread', '1-For-1 Deals', 'Halal']",https://www.burpple.com/pita-bakery
+Overrun,18 Baghdad Street Singapore 199657,"['Ice Cream & Yoghurt', 'Desserts', '1-For-1 Deals', 'Halal']",https://www.burpple.com/overrun
+Wildfire Chicken & Burgers,80 Bencoolen Street #01-15 Singapore 189655,"['Burgers', 'Western']",https://www.burpple.com/wildfireburgers
+The Mad Sailors,24 Haji Lane Singapore 189217,"['Seafood', 'Pasta', 'Cafes & Coffee', 'Western', '1-For-1 Deals', 'Halal']",https://www.burpple.com/the-mad-sailors
+machi machi,25 Arab Street Singapore 199724,"['Desserts', 'Fruit Tea', 'Bubble Tea']",https://www.burpple.com/machi-machi-singapore
+Tipo,785 North Bridge Road Singapore 198753,"['Pasta', 'Italian', 'Cafes & Coffee', 'Halal']",https://www.burpple.com/tipo
+Japanese Curry Express,190 Middle Road #03-04 Fortune Centre Singapore 188979,"['Sushi', 'Japanese', 'Cheap & Good']",https://www.burpple.com/japanese-curry-express
+Chong Qing Grilled Fish (Liang Seah),1 Liang Seah Street #01-05/06 Singapore 208829,"['Supper', 'Good For Groups', 'Chinese', '1-For-1 Deals']",https://www.burpple.com/chong-qing-grilled-fish
+Brotherbird Coffeehouse (Bugis),32A Bali Lane Singapore 189868,"['Cafes & Coffee', 'Desserts']",https://www.burpple.com/brother-bird
+Fat Bird (Bugis),1 Liang Seah Street #01-15/16 Singapore 189022,"['Rainy Day Comforts', 'Buffets', 'Supper', 'Late Night', 'Chinese', '1-For-1 Deals', 'Steamboat']",https://www.burpple.com/fat-bird
+Afterwit - Mexican Taqueira,778 North Bridge Road Singapore 198746,"['Mexican', 'Cafes & Coffee', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/afterwit
+Chix Hot Chick'n,1 Jalan Pisang #01-01 Singapore 199069,"['Burgers', 'Western', 'Halal']",https://www.burpple.com/chix-hot-chicken
+belle-ville Pancake Cafe (Bugis Junction),230 Victoria Street #01-01B Bugis Junction Tower Singapore 188024,"['Japanese', 'Cafes & Coffee', 'Desserts', 'Takeaway Available']",https://www.burpple.com/belleville-sg
+The Hashtag Cafe,743 North Bridge Road Singapore 198711,"['Cafes & Coffee', 'Western', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/hastag-cafe
+Konditori - Artisan European Bakery,33 Bussorah Street Singapore 199451,"['Bread', 'Desserts', 'Cakes', 'Halal']",https://www.burpple.com/konditori-artisan-bakery
+Joo Bar,5 Tan Quee Lan Street Singapore 188094,"['Bars', 'Dinner With Drinks', 'Date Night', 'Good For Groups', 'Late Night', 'Korean', 'Takeaway Available']",https://www.burpple.com/joo-bar
+Earlybird,17 Jalan Pinang Singapore 199149,"['Cafes & Coffee', 'Desserts', 'Breakfast & Brunch', 'Takeaway Available']",https://www.burpple.com/earlybird
+Grill Ninety Nine,142 Arab Street Singapore 199828,"['Pasta', 'Pizza', 'Western', '1-For-1 Deals', 'Halal']",https://www.burpple.com/grill-ninety-nine
+Founder Bak Kut Teh (Bugis),530 North Bridge Road #01-01 Singapore 188747,"['Rainy Day Comforts', 'Bak Kut Teh', '1-For-1 Deals', 'Hawker Food']",https://www.burpple.com/founder-bak-kut-teh-north-bridge-road
+Thai-licious Boat Noodles,8 Liang Seah Street #01-01 Singapore 189029,"['Thai', '1-For-1 Deals']",https://www.burpple.com/thailiciousboatnoodles
+Big Fish Small Fish (Bugis Junction),200 Victoria Street #04-05 Bugis Junction Singapore 188021,"['Western', 'Halal']",https://www.burpple.com/sgbigfishsmallfish-bugis-junction
+LePak At Rayz,62 Bussorah Street Singapore 199478,"['Local Delights', 'Pasta', 'Western', 'Halal']",https://www.burpple.com/rayz-bistro
+Squisito,28 Bali Lane Singapore 189864,"['Pasta', 'Italian', 'Pizza', 'Halal']",https://www.burpple.com/squisitosg
+Rich & Good Cake Shop (Kandahar),24 Kandahar Street Singapore 198887,"['Desserts', 'Cakes']",https://www.burpple.com/rich-and-good-cake-shop
+Xiangcao Yunnan Original Ecology Hotpot,26 Liang Seah Street #01-01 Singapore 189047,"['Rainy Day Comforts', 'Buffets', 'Supper', 'Chinese', '1-For-1 Deals', 'Steamboat']",https://www.burpple.com/xiangcaosingapore
+Lickety Ice Cream and Waffles,34 Bussorah Street Singapore 199452,"['Ice Cream & Yoghurt', 'Desserts', 'Waffles', 'Halal']",https://www.burpple.com/lickety
+Sanobar Gila Gula,48 Kandahar Street Singapore 198899,"['Local Delights', 'Malay', 'Desserts', 'Halal']",https://www.burpple.com/gila-gula
+Edith Patisserie,772 North Bridge Road #01-00 Singapore 198740,"['Desserts', 'Cakes', 'Takeaway Available']",https://www.burpple.com/edith-patisserie
+Pizza Maru (Bugis+),201 Victoria Street #04-03/04 Bugis+ Singapore 188067,"['Pizza', 'Korean', 'Korean Fried Chicken']",https://www.burpple.com/pizza-maru-bugis
+En Sushi,112 Middle Road #01-00B Midland House Singapore 188970,"['Sushi', 'Chirashi', 'Japanese']",https://www.burpple.com/en-sushi
+Little Damage (Haji Lane),2 Haji Lane Singapore 189195,"['Ice Cream & Yoghurt', 'Desserts', '1-For-1 Deals']",https://www.burpple.com/little-damage
+Narrative Coffee Stand,231 Bain Street #01-05 Bras Basah Complex Singapore 180231,['Cafes & Coffee'],https://www.burpple.com/narrative-coffee-stand
+Sushi Airways,20A Baghdad Street Singapore 199659,"['Sushi', 'Interesting', 'Chirashi', 'Japanese']",https://www.burpple.com/sushiairways-sushibar
+Una Una,201 Victoria Street #04-10 Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/una-una
+Kappou Japanese Sushi Tapas Bar,190 Middle Road #02-10A Fortune Centre Singapore 188979,"['Seafood', 'Hidden Gem', 'Sushi', 'Japanese', 'Dinner With Drinks', 'Date Night']",https://www.burpple.com/kappou-japanese-sushi-tapas-bar
+Paulinni (Bugis+),201 Victoria Street #01-07 Bugis+ Singapore 188067,"['Ice Cream & Yoghurt', 'Cafes & Coffee', 'Waffles', 'Western']",https://www.burpple.com/paulinni-at-bugis
+665°F,5 Fraser Street Level 38 Andaz Singapore Singapore 189354,"['Seafood', 'Great View', 'Steak', 'Dinner With Drinks', 'Date Night', 'Western', 'Halal']",https://www.burpple.com/665-degrees-fahrenheit
+Positano Risto,66 Bussorah Street Singapore 199479,"['Pasta', 'Italian', 'Pizza', 'Western', 'Halal']",https://www.burpple.com/positano-risto
+Ramen Keisuke Tonkotsu King Four Seasons (Bugis),158 Rochor Road Bugis Village Singapore 188433,"['Ramen', 'Japanese']",https://www.burpple.com/ramen-keisuke-tonkotsu-king-four-seasons
+Wing Zone (Bugis+),201 Victoria Street #04-02 Bugis+ Singapore 188067,"['Western', '1-For-1 Deals', 'Halal']",https://www.burpple.com/wing-zone-bugis
+Hummus & Grill,23 Baghdad Street Singapore 199662,"['Middle Eastern', 'Late Night', '1-For-1 Deals']",https://www.burpple.com/hummus-grill
+LUX - Alfresco Bar,269 Beach Road Singapore 199546,"['Bars', 'Date Night', 'Cocktails', '1-For-1 Deals']",https://www.burpple.com/lux-alfresco-bar
+Piedra Negra,241 Beach Road Singapore 189753,"['Mexican', 'Dinner With Drinks', 'Late Night']",https://www.burpple.com/piedra-negra
+Nobu-ya,190 Middle Road #01-05 Fortune Centre Singapore 188979,"['Japanese', 'Dinner With Drinks']",https://www.burpple.com/nobuya
+IndoBowl,39 Sultan Gate Singapore 198487,"['Indonesian', 'Halal', 'Newly Opened']",https://www.burpple.com/indobowlsg
+Wakuwaku Yakiniku,27 Bali Lane Singapore 189863,"['Japanese', 'BBQ', 'Halal']",https://www.burpple.com/wakuwaku-yakiniku
+Mellower Coffee (Bugis),108 Middle Road #01-01 The Prospex Singapore 188967,"['Cafes & Coffee', 'Desserts']",https://www.burpple.com/mellower-coffee-bugis
+Kane Mochi (Bugis+),201 Victoria Street #02-50 Bugis+ Singapore 188067,"['Ice Cream & Yoghurt', 'Desserts', 'Halal']",https://www.burpple.com/kane-mochi
+The Gong by Drinks & Co.,7 Fraser Street #01-59/60 DUO Galleria Singapore 189356,"['Bars', 'Dinner With Drinks', 'Late Night', 'Western', 'Cocktails']",https://www.burpple.com/the-gong-by-drinks-co
+Genki Sushi (Bugis+),201 Victoria Street #01-13 Bugis+ Singapore 188067,"['Sushi', 'Japanese']",https://www.burpple.com/genki-sushi-bugis
+Royz et Vous (Sultan Gate),37 Sultan Gate Singapore 198485,"['Pasta', 'Cafes & Coffee', 'Western', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/royz-et-vous-speciality-coffee
+Jiu Gong Ge Hotpot,470 North Bridge Road #01-02 Bugis Cube Singapore 188735,"['Seafood', 'Rainy Day Comforts', 'Good For Groups', 'Chinese', '1-For-1 Deals', 'Steamboat']",https://www.burpple.com/jiugongge
+The Malayan Council (Bussorah Street),71 Bussorah Street Singapore 199484,"['Cafes & Coffee', 'Desserts', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/the-malayan-council-1
+Omurice Keisuke,201 Victoria Street #04-01 Bugis+ Singapore 188067,"['Pasta', 'Japanese']",https://www.burpple.com/omurice-keisuke
+Wilder,749 North Bridge Road Singapore 198717,"['Cafes & Coffee', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/wilder
+working title - Burger Bar,783 North Bridge Road Singapore 198751,"['Cafes & Coffee', 'Desserts', 'Burgers', 'Western', 'Halal']",https://www.burpple.com/working-title
+All Things Delicious (Arab Street),34 Arab Street #01-01 Singapore 199733,"['Burpple Guides', 'Cafes & Coffee', 'Desserts', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/all-things-delicious
+One Bowl Restaurant and Bar,101 Jalan Sultan The Sultan Hotel Lobby Singapore 199002,"['Cheap & Good', 'Chinese']",https://www.burpple.com/one-bowl-restaurant-and-bar
+Dessert First,8 Liang Seah Street #01-04 Singapore 189029,"['Desserts', 'Supper']",https://www.burpple.com/dessert-first
+Ah Loy Thai,9 Tan Quee Lan Street #01-04 Singapore 188098,"['Thai', 'Cheap & Good', 'Good For Groups']",https://www.burpple.com/ah-loy-thai
+Juju Coffee,5 Tan Quee Lan Street Singapore 188094,['Cafes & Coffee'],https://www.burpple.com/juju-coffee
+Lubnan Authentic Lebanese Cuisine,32 Bussorah Street Singapore 199450,"['Middle Eastern', '1-For-1 Deals', 'Mediterranean']",https://www.burpple.com/lubnan
+ATLAS,600 North Bridge Road Singapore 188778,"['Bars', 'Dinner With Drinks', 'European', 'Cocktails']",https://www.burpple.com/atlas
+[CLOSED] TONO Cevicheria,7 Fraser Street #01-49/50 DUO Galleria Singapore 189356,"['Seafood', 'Dinner With Drinks', 'Good For Groups']",https://www.burpple.com/tonocevicheria
+Chir Chir Fusion Chicken Factory (Bugis Junction),200 Victoria Street #02-50 Bugis Junction Singapore 188021,"['Good For Groups', 'Korean', 'Korean Fried Chicken']",https://www.burpple.com/chir-chir-2
+Cicheti,52 Kandahar Street Singapore 198901,"['Pasta', 'Burpple Guides', 'Italian', 'Pizza', 'Date Night']",https://www.burpple.com/cicheti
+Maison Ikkoku,Kandahar Street 20 Singapore 198885,"['Bars', 'Burpple Guides', 'Sandwiches', 'Cafes & Coffee', 'Late Night', 'Cocktails', 'Breakfast & Brunch']",https://www.burpple.com/maison-ikkoku
+Monster Curry (Bugis Junction),200 Victoria Street #B1-04/K24 Bugis Junction Singapore 188021,['Japanese'],https://www.burpple.com/monster-curry-bugis-junction
+Istanblue Mezze & Grill House,17 Baghdad Street Singapore 199656,"['Turkish', 'Good For Groups', '1-For-1 Deals']",https://www.burpple.com/istanblue-mezze-grill-house
+Thyme (Aliwal),28 Aliwal Street #01-07 Aliwal Arts Center Singapore 199918,"['Pasta', 'Pizza', 'Western', '1-For-1 Deals', 'Breakfast & Brunch']",https://www.burpple.com/thyme-aliwal
+The Masses,85 Beach Road #01-02 Singapore 189694,"['Dinner With Drinks', 'Date Night', 'European', 'Takeaway Available']",https://www.burpple.com/the-masses
+Xing Hua Vegetarian Restaurant,190 Middle Road #01-11 Fortune Centre Singapore 188979,"['Vegetarian', 'Chinese']",https://www.burpple.com/xing-hua-vegetarian-restaurant
+Seoul Yummy (Bugis+),201 Victoria Street #04-11 Bugis+ Singapore 188067,"['Good For Groups', 'Korean', 'Korean Desserts']",https://www.burpple.com/seoul-yummy-3
+Jin Jin Eating House,496 North Bridge Road Singapore 188739,['Hawker Food'],https://www.burpple.com/jin-jin-eating-house
+Flaming Don (Bugis+),201 Victoria Street #05-02 Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/flaming-don
+Tash Tish Tosh,50 Kandahar Street Singapore 198900,"['Pizza', 'Cafes & Coffee', 'Good For Groups', 'Western', 'Halal']",https://www.burpple.com/tash-tish-tosh-cafe
+Double Up Coffee,7 Jalan Klapa Singapore 199319,"['Cafes & Coffee', 'Desserts']",https://www.burpple.com/double-up-coffee
+The Ramen Stall,787 North Bridge Road Singapore 198755,"['Ramen', 'Japanese', 'Supper', 'Late Night', 'Halal']",https://www.burpple.com/the-ramen-stall-1
+aRoma (Arab Street),29 Arab Street Singapore 199728,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/aroma-1
+The Soup Spoon (Bugis Junction),200 Victoria Street #B1-04/26 Bugis Junction Singapore 188021,"['Soup', 'Healthy', 'Sandwiches', 'Salads']",https://www.burpple.com/soup-spoon-3
+Moosh Softserve (Haji Lane),44 Haji Lane Singapore 189237,"['Ice Cream & Yoghurt', 'Desserts', 'Halal']",https://www.burpple.com/moosh-softserve
+Mrs Pho (Beach Road),349 Beach Road Singapore 199570,"['Vietnamese', 'Cheap & Good']",https://www.burpple.com/mrs-pho
+Ah Chew Desserts (Liang Seah Street),1 Liang Seah Street #01-11 Liang Seah Place Singapore 189022,"['Local Delights', 'Desserts', 'Supper']",https://www.burpple.com/ah-chew-desserts
+Sawadee Thai Cuisine,9 Tan Quee Lan Street #01-01 TQL Suites Singapore 188098,"['Thai', '1-For-1 Deals']",https://www.burpple.com/sawadee-thai-cuisine
+Supreme Pork Chop Rice,67 Beach Road #B1-01 Bulkhaul House Singapore 189688,"['Hidden Gem', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/supreme-pork-chop-rice
+Kogane Yama (Bugis Junction),200 Victoria Street #02-50 Bugis Junction Singapore 188021,['Japanese'],https://www.burpple.com/koganeyamasingapore
+PastaWa,77 Aliwal Street Singapore 199948,"['Pasta', 'Western']",https://www.burpple.com/pastawa
+Wakey Wakey,302 Beach Road #01-04/05 Singapore 199600,"['Cafes & Coffee', 'Desserts', 'Waffles', 'Cakes']",https://www.burpple.com/wakey-wakey
+Fish & Co. (Bugis+),201 Victoria Street #04-07 Bugis+ Singapore 188067,"['Seafood', 'Western', 'Halal']",https://www.burpple.com/fish-co-28
+Julie Bakes,14 Baghdad Street Singapore 199653,"['Desserts', 'Cakes', 'Halal']",https://www.burpple.com/julie-bakes-halal-100
+Jing Hua Xiao Chi (Bugis Village),159 Rochor Road Bugis Village Singapore 188434,"['Dim Sum', 'Chinese']",https://www.burpple.com/jing-hua-restaurant
+Ratu Lemper,31 Arab Street Singapore 199730,"['Local Delights', 'Malay', 'Desserts', 'Halal']",https://www.burpple.com/ratu-lemper-heritage-delicacy
+Groundstory,756/758 North Bridge Road Singapore 198726,"['Cafes & Coffee', 'Cakes']",https://www.burpple.com/groundstory
+Nunsongyee (Bugis),534 North Bridge Road Singapore 188749,"['Ice Cream & Yoghurt', 'Desserts', 'Supper', 'Good For Groups', 'Korean Desserts']",https://www.burpple.com/nunsongyee-bugis
+Daessiksin (Bugis+),201 Victoria Street #04-05 Bugis+ Singapore 188087,"['Korean BBQ', 'Buffets', 'Good For Groups', 'BBQ', 'Korean']",https://www.burpple.com/daessiksin-bugis
+Blackball (Bugis+),201 Victoria Street #01-14 Bugis+ Singapore 188067,"['Taiwanese', 'Desserts']",https://www.burpple.com/black-ball-at-bugis
+LiHO (Bugis+),201 Victoria Street #03-29/30 Bugis+ Singapore 188067,"['Fruit Tea', 'Bubble Tea']",https://www.burpple.com/liho
+CoCoICHIBANYA (Bugis+),201 Victoria Street #01-10 Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/coco-ichibanya-curry-house
+Yolé (Bugis+),201 Victoria Street #03-27 Bugis+ Singapore 188067,"['Ice Cream & Yoghurt', 'Desserts', 'Healthier Choice']",https://www.burpple.com/yole-bugis
+YAYOI (Bugis+),201 Victoria Street #01-08 Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/yayoiken-japanese-restaurant-4
+Bonchon (Bugis+),201 Victoria Street #01-11 Bugis+ Singapore 188067,"['Korean', 'Korean Fried Chicken']",https://www.burpple.com/bonchon-chicken-21
+Geláre (Bugis+),201 Victoria Street #05-10 Bugis+ Singapore 188067,"['Ice Cream & Yoghurt', 'Desserts', 'Waffles', 'Halal']",https://www.burpple.com/gelare-10
+AmaSoy (Bugis+),201 Victoria Street #04-05 Bugis+ Singapore 188067,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/amasoy-bugis
+COyOrO (Bugis),4 New Bugis Street Stall EFL-4I Singapore 188868,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/coyoro-bugis
+Poulet (Bugis+),201 Victoria Street #04-12 Bugis+ Singapore 188067,"['French', 'Good For Groups']",https://www.burpple.com/poulet
+Bugis Street Chuen Chuen Chicken Rice (Bugis),21 Tan Quee Lan Street #01-01 Heritage Place Singapore 188108,"['Chicken Rice', 'Zi Char', 'Good For Groups', 'Hawker Food']",https://www.burpple.com/bugis-street-chuen-chuen
+Twelve Cupcakes (Bugis Junction),200 Victoria Street #B1-03B Bugis Junction Singapore 188021,"['Desserts', 'Cakes', 'Halal']",https://www.burpple.com/twelve-cupcakes-10
+Derwish Turkish Restaurant,60 Bussorah Street Singapore 199476,"['Turkish', '1-For-1 Deals', 'Mediterranean', 'Halal']",https://www.burpple.com/derwish-turkish-restaurant
+Peony Sense (Bugis),191 Rochor Road #B2-09A Bugis MRT Singapore 486038,"['Healthy', 'Desserts']",https://www.burpple.com/peony-sense
+Chicken Up Little (Bugis),60 Queen Street Stall 5 Tastebud Foodcourt Singapore 188540,"['Korean', 'Korean Fried Chicken']",https://www.burpple.com/chickenup-little
+Eighteen Chefs (Bugis Junction),200 Victoria Street #04-06 Bugis Junction Singapore 188021,"['Western', 'Halal']",https://www.burpple.com/eighteen-chefs-6
+Boss Bake (Bugis),191 Rochor Road #B2-11 Bugis MRT Singapore 188476,['Desserts'],https://www.burpple.com/bossbakebakery
+BBQ Box (Bugis),21 Tan Quee Lan Street #01-03 Singapore 188108,"['Rainy Day Comforts', 'Good For Groups', 'BBQ', 'Chinese']",https://www.burpple.com/bbq-box-1
+Kin Moo (Bugis),2 Tan Quee Lan Street #01-02 Singapore 188091,"['Thai', 'Cheap & Good']",https://www.burpple.com/kinmoo
+Chocolate Origin (Bugis Junction),200 Victoria Street #B1-01/02 Bugis Junction Singapore 188021,"['Desserts', 'Cakes']",https://www.burpple.com/chocolate-origin-bugis-junction
+Swensen's (Bugis Junction),200 Victoria Street #01-68 Bugis Junction Singapore 188021,"['Ice Cream & Yoghurt', 'Desserts', 'Good For Groups', 'Western', 'Halal']",https://www.burpple.com/swensens-26
+Starbucks (Bugis Junction),200 Victoria Street #01-15 Bugis Junction Singapore 188021,['Cafes & Coffee'],https://www.burpple.com/starbucks-bugis-junction
+Platypus Kitchen (Bugis Junction),200 Victoria Street #01-90/91 Bugis Junction Singapore 188021,"['Pasta', 'Italian', 'Good For Groups', 'Western']",https://www.burpple.com/platypus-kitchen-bugis-junction-sungapore
+Qiji (Bugis Village),160 Rochor Road Bugis Village Singapore 188435,"['Local Delights', 'Halal', 'Healthier Choice']",https://www.burpple.com/qi-ji
+BreadTalk (Bugis Junction),200 Victoria Street #B1-23 Bugis Junction Singapore 188021,"['Bread', 'Cakes']",https://www.burpple.com/breadtalk-40
+Toast Box (Bugis Junction),200 Victoria Street #01-67 Bugis Junction Singapore 188021,"['Local Delights', 'Bread', 'Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/toast-box-bugis-junction
+Kotsujiru Nabe (Bugis Junction),200 Victoria Street #B1-K2 Bugis Junction Singapore 188021,"['Ramen', 'Japanese']",https://www.burpple.com/osaka-handmade-gyoza
+llaollao (Bugis Junction),200 Victoria Street #01-14 Bugis Junction Singapore 188021,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/llaollao-bugisjunction
+Stuff'd (Bugis Junction),200 Victoria Street #B1-K07 Bugis Junction Singapore 188021,"['Mexican', 'Turkish', 'Healthy', 'Salads', 'Halal']",https://www.burpple.com/stuffd-bugis
+Godiva Chocolatier (Bugis Junction),200 Victoria Street #01-60/60A Bugis Junction Singapore 188021,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/godiva-bugis-shopping-mall-singapore
+Neds Crepe (Bugis Village),3 New Bugis Sreet #02-07 Bugis Village Singapore 188867,['Desserts'],https://www.burpple.com/neds-crepe
+Bugis BBQ & Hotpot,470 North Bridge Road #01-01 Bugis Cube Singapore 188735,"['Buffets', 'Supper', 'Good For Groups', 'BBQ', 'Steamboat']",https://www.burpple.com/bugis-bbq-hotpot-buffet
+Greendot (Bugis Junction),200 Victoria Street #01-71/72 Bugis Junction Singapore 188021,"['Local Delights', 'Vegetarian', 'Healthy', 'Healthier Choice']",https://www.burpple.com/greendot-bugis-junction
+Paris Baguette (Bugis Junction),200 Victoria Street #B1-24/25 Bugis Junction Singapore 188021,"['Bread', 'Cafes & Coffee', 'Desserts', 'Korean Desserts', 'Cakes', 'Breakfast & Brunch']",https://www.burpple.com/paris-baguette-cafe-4
+KFC (Bugis Junction),200 Victoria Street #B1-09 Bugis Junction Singapore 188021,"['Fast Food', 'Halal']",https://www.burpple.com/kfc-bugis-junction
+Yoshinoya (Bugis Junction),200 Victoria Street #B1-10 Bugis Junction Singapore 188021,"['Fast Food', 'Japanese']",https://www.burpple.com/yoshinoya-29
+Kazokutei (Bugis Junction),200 Victoria Street #02-49 Bugis Junction Singapore 188021,['Japanese'],https://www.burpple.com/kazokutei-3
+Yoshinoya (Bugis Junction),200 Victoria Street #B1-10 Bugis Junction Singapore 188021,"['Fast Food', 'Japanese']",https://www.burpple.com/yoshinoya-29
+Suki-Ya (Bugis+),201 Victoria Street #04-14/15 Bugis+ Singapore 188067,"['Buffets', 'Japanese', 'Good For Groups', 'Steamboat']",https://www.burpple.com/sukiya-iluma
+McDonald's (Bugis Village),151/152 Rochor Road Singapore 188426,"['Fast Food', 'Supper']",https://www.burpple.com/mcdonald-bugis-village
+Ice Lab Cafe (Bugis),164 Rochor Road Singapore 188439,"['Cafes & Coffee', 'Desserts', 'Korean', 'Korean Desserts']",https://www.burpple.com/ice-lab-cafe-bugis
+Wah! Kung Fu (Bugis),470 North Bridge Road #01-04 Bugis Cube Singapore 188735,"['Seafood', 'Chinese']",https://www.burpple.com/wah-kungu-bugis
+Washoku Goen (Bugis Junction),200 Victoria Street #03-30 Stall 11 Bugis Junction Food Junction Singapore 188021,"['Japanese', 'Cheap & Good']",https://www.burpple.com/washoku-goen-at-bugis-junction
+WOK HEY (Bugis Junction),200 Victoria Street #B1-K3 Bugis Junction Singapore 188021,"['Local Delights', 'Halal']",https://www.burpple.com/wok-hey
+Wow Tako (Bugis Junction),200 Victoria Street #B1-K17 Bugis Junction Singapore 188021,['Japanese'],https://www.burpple.com/wow-tako
+Jinjja Chicken (Bugis Village),249 Victoria Street Singapore 188034,"['Fast Food', 'Cheap & Good', 'Korean', 'Korean Desserts', 'Korean Fried Chicken', 'Halal']",https://www.burpple.com/jinjja-chicken
+Royale (Mercure Singapore Bugis),122 Middle Road Level 3 Mercure Singapore Bugis Singapore 188973,"['Buffets', 'Good For Groups']",https://www.burpple.com/royale-restaurant
+Xian De Lai (Bugis),18 Liang Seah Street Singapore 189039,"['Buffets', 'Supper', 'Chinese', 'Steamboat']",https://www.burpple.com/liang-seah-street-bugis
+Ramen Champion (Bugis+),201 Victoria Street #04-10 Bugis+ Singapore 188067,"['Ramen', 'Japanese']",https://www.burpple.com/ramen-champion
+Ajisen Ramen (Bugis Junction),200 Victoria Street #01-01 Bugis Junction Singapore 188021,"['Ramen', 'Japanese']",https://www.burpple.com/ajisen-ramen-15
+Bumbu Restaurant (Bugis),44 Kandahar Street Singapore 198897,"['Burpple Guides', 'Thai', 'Indonesian', 'Halal']",https://www.burpple.com/bumbu
+Tori Q (Bugis Junction),200 Victoria Street #B1-K1 Bugis Junction Singapore 188024,"['Fast Food', 'Japanese']",https://www.burpple.com/toriq-3
+McDonald's (Bugis Junction),200 Victoria Street #01-66 Bugis Junction Singapore 188024,"['Fast Food', 'Supper']",https://www.burpple.com/mcdonaldstm-bugis-junction
+Sukhothai Kitchen (Bugis),149 Rochor Road #B1-22 Fu Lu Shou Complex Choh Dee Food Place Singapore 188425,['Thai'],https://www.burpple.com/sukhothai-kitchen-authentic-thai-cuisine
+Super Dream (Bugis),3 New Bugis Street #01-MSV12 Singapore 188867,['Desserts'],https://www.burpple.com/super-dream
+Rumah Makan Minang (Bugis),18/18A Kandahar Street Singapore 198884,"['Local Delights', 'Indonesian', 'Halal']",https://www.burpple.com/rumah-makan-minang
+The SaladBox (Bugis),191 Rochor Road #B2-08 Bugis MRT Singapore 188476,"['Healthy', 'Salads']",https://www.burpple.com/the-saladbox
+PastaMania (Bugis Junction),200 Victoria Street #B1-08 Bugis Junction Singapore 188021,"['Pasta', 'Italian', 'Pizza', 'Halal']",https://www.burpple.com/pastamania-17
+Astons Specialities (Bugis+),201 Victoria Street #05-08 Bugis+ Singapore 188067,['Western'],https://www.burpple.com/astons-specialties
+Sharetea (Bugis Junction),200 Victoria Street #01-14A Bugis Junction Singapore 188021,['Desserts'],https://www.burpple.com/share-tea-12
+Ramen Champion (Bugis+),201 Victoria Street #04-10 Bugis+ Singapore 188067,"['Ramen', 'Japanese']",https://www.burpple.com/ramen-champion
+Ajisen Ramen (Bugis Junction),200 Victoria Street #01-01 Bugis Junction Singapore 188021,"['Ramen', 'Japanese']",https://www.burpple.com/ajisen-ramen-15
+Bumbu Restaurant (Bugis),44 Kandahar Street Singapore 198897,"['Burpple Guides', 'Thai', 'Indonesian', 'Halal']",https://www.burpple.com/bumbu
+Tori Q (Bugis Junction),200 Victoria Street #B1-K1 Bugis Junction Singapore 188024,"['Fast Food', 'Japanese']",https://www.burpple.com/toriq-3
+McDonald's (Bugis Junction),200 Victoria Street #01-66 Bugis Junction Singapore 188024,"['Fast Food', 'Supper']",https://www.burpple.com/mcdonaldstm-bugis-junction
+Sukhothai Kitchen (Bugis),149 Rochor Road #B1-22 Fu Lu Shou Complex Choh Dee Food Place Singapore 188425,['Thai'],https://www.burpple.com/sukhothai-kitchen-authentic-thai-cuisine
+Super Dream (Bugis),3 New Bugis Street #01-MSV12 Singapore 188867,['Desserts'],https://www.burpple.com/super-dream
+The SaladBox (Bugis),191 Rochor Road #B2-08 Bugis MRT Singapore 188476,"['Healthy', 'Salads']",https://www.burpple.com/the-saladbox
+Rumah Makan Minang (Bugis),18/18A Kandahar Street Singapore 198884,"['Local Delights', 'Indonesian', 'Halal']",https://www.burpple.com/rumah-makan-minang
+Astons Specialities (Bugis+),201 Victoria Street #05-08 Bugis+ Singapore 188067,['Western'],https://www.burpple.com/astons-specialties
+Sharetea (Bugis Junction),200 Victoria Street #01-14A Bugis Junction Singapore 188021,['Desserts'],https://www.burpple.com/share-tea-12
+Xin Yuan Ji (Bugis),31 Tan Quee Lan Street #01-01 Singapore 188117,"['Seafood', 'Zi Char', 'Cheap & Good', 'Good For Groups', 'Steamboat', 'Hawker Food']",https://www.burpple.com/xin-yuan-ji
+Wow Tako (Bugis Junction),200 Victoria Street #B1-K17 Bugis Junction Singapore 188021,['Japanese'],https://www.burpple.com/wow-tako
+Royale (Mercure Singapore Bugis),122 Middle Road Level 3 Mercure Singapore Bugis Singapore 188973,"['Buffets', 'Good For Groups']",https://www.burpple.com/royale-restaurant
+Xian De Lai (Bugis),18 Liang Seah Street Singapore 189039,"['Buffets', 'Supper', 'Chinese', 'Steamboat']",https://www.burpple.com/liang-seah-street-bugis
+Jinjja Chicken (Bugis Village),249 Victoria Street Singapore 188034,"['Fast Food', 'Cheap & Good', 'Korean', 'Korean Desserts', 'Korean Fried Chicken', 'Halal']",https://www.burpple.com/jinjja-chicken
+Seoul Garden (Bugis Junction),200 Victoria Street #02-52 Bugis Junction Singapore 188021,"['Korean BBQ', 'Buffets', 'Good For Groups', 'BBQ', 'Halal']",https://www.burpple.com/seoul-garden-16
+Chewy Junior (Bugis Junction),200 Victoria Street #B1-12 Bugis Junction Singapore 188021,"['Bread', 'Desserts']",https://www.burpple.com/chewy-junior-8
+Four Leaves (Bugis Junction),200 Victoria Street #B1-14/15 Bugis Junction Singapore 188021,"['Bread', 'Cakes']",https://www.burpple.com/four-leaves-bugis
+I Love Taimei (Bugis Junction),200 Victoria Street #B1-K11/11A Bugis Junction Singapore 188021,"['Taiwanese', 'Fast Food', 'Bubble Tea']",https://www.burpple.com/i-love-taimei-bugis-junction
+Pepper Lunch Express (Bugis Junction),200 Victoria Street #03-30 Bugis Junction Food Junction Singapore 188021,"['Steak', 'Kopitiam', 'Japanese']",https://www.burpple.com/peper-lunch-express
+FatPapas Burgers and Shakes (Bugis),17 Bali Lane Singapore 189853,"['Burgers', 'Western', 'Halal']",https://www.burpple.com/fat-papas
+Ma Maison Restaurant (Bugis Junction),200 Victoria Street #02-51 Bugis Junction Singapore 188021,"['Steak', 'Japanese']",https://www.burpple.com/ma-maison-restaurant
+Let's Eat (Bugis Junction),200 Victoria Street #B1-K23 Bugis Junction Singapore 188025,"['Local Delights', 'Hawker Food']",https://www.burpple.com/lets-eat
+Polar Puffs & Cakes (Bugis Junction),200 Victoria Street #B1-K8 Bugis Junction Singapore 188021,"['Bread', 'Cakes', 'Halal']",https://www.burpple.com/polar-puffs
+My Favourite Cafe (Bugis Cube),470 North Bridge Road #02-10 Bugis Cube Singapore 188735,"['Local Delights', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/favourite-cafe-1
+Gao Peng Cuisine (Bugis Village),233 Victoria Street Singapore 188026,['Chinese'],https://www.burpple.com/gao-peng-cuisine
+Beard Papa's (Bugis Junction),200 Victoria Street #B1-12A Bugis Junction Singapore 188021,['Desserts'],https://www.burpple.com/beard-papa-1
+Ritz Apple Strudel (Bugis Junction),200 Victoria Street #B1-K12 Bugis Junction Singapore 188021,"['Desserts', 'Halal']",https://www.burpple.com/ritz-apple-strudel-bugis-junction
+Chang Cheng Mee Wah (Bugis 269),269 Queen Street #01-236 Singapore 180269,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/qs-269-food-house
+Mei Heong Yuen Dessert (Bugis),16 Liang Seah Street Singapore 189037,['Desserts'],https://www.burpple.com/mei-heong-yuen-dessert-bugis
+HarriAnns Nonya Table (Bugis Junction),230 Victoria Street #01-01A Bugis Junction Towers Singapore 188024,"['Peranakan', 'Desserts']",https://www.burpple.com/harrianns-delights
+QQ Noodle House (Bugis Village),231 Victoria Street Bugis Village Singapore 188025,"['Local Delights', 'Hawker Food']",https://www.burpple.com/qq-noodle-house
+I Love Taimei (Bugis Village),52 Queen Street #ABFL-21 Singapore 188539,"['Taiwanese', 'Fast Food', 'Bubble Tea']",https://www.burpple.com/i-love-taimei
+Fun Toast (Bugis Downtown MRT),191 Rochor Road #B2-06 Bugis MRT Singapore 188476,"['Local Delights', 'Bread', 'Cafes & Coffee']",https://www.burpple.com/fun-toast-3
+Tuk Tuk Cha (Bugis Junction),200 Victoria Street #M01-K1 Bugis Junction Singapore 188021,"['Thai', 'Desserts', 'Halal']",https://www.burpple.com/tuk-tuk-cha-5
+Odeon Beef Noodles (Bugis Junction),200 Victoria Street #03-30 Bugis Junction Food Junction Singapore 180021,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/odeon-beef-noodles
+Beauty Nutritious Soup (Bugis Junction),200 Victoria Street #03-30 Bugis Junction Food Junction Stall 3 Singapore 188021,"['Soup', 'Hawker Food']",https://www.burpple.com/beauty-nutritious-soup-bugis-junction
+Sumire Yakitori House (Bugis Junction),200 Victoria Street #01-88/89 Bugis Junction Singapore 188021,"['Japanese', 'Takeaway Available']",https://www.burpple.com/sumire-yakitori-house
+Hong Kong Egglet (Bugis Junction),200 Victoria Street #B1-K14 Bugis Junction Singapore 188021,['Desserts'],https://www.burpple.com/hong-kong-egglet-1
+Old Chang Kee (Bugis Junction),200 Victoria Street #B1-13 Bugis Junction Singapore 188021,"['Local Delights', 'Fast Food', 'Halal']",https://www.burpple.com/old-chang-kee-16
+Popeyes Louisiana Kitchen (Bugis Village),229 Victoria Street Singapore 188023,"['Fast Food', 'Halal']",https://www.burpple.com/popeye-luisiana-kitchen-at-bugis
+Cast Iron,7 Fraser Street #01-32/33 DUO Galleria Singapore 189356,"['Bars', 'Sushi', 'Steak', 'Japanese', 'Dinner With Drinks', 'Date Night']",https://www.burpple.com/cast-iron
+The Coffee Bean & Tea Leaf (Bugis+),201 Victoria Street #01-06 Bugis+ Singapore 188067,"['Cafes & Coffee', 'Halal']",https://www.burpple.com/the-coffee-bean-tea-leaf-74
+New Manlee Bak Kut Teh (Bugis+),201 Victoria Street #01-12 Bugis+ Singapore 188067,"['Rainy Day Comforts', 'Bak Kut Teh', 'Hawker Food']",https://www.burpple.com/new-manlee-bak-kut-teh
+The Connoisseur Concerto (Bugis Junction Main),80 Middle Road #01-92-96 Bugis Junction Singapore 188966,"['Cafes & Coffee', 'Western', 'Breakfast & Brunch']",https://www.burpple.com/the-connoisseur-concerto-tcc-24
+Long John Silver's (Bugis Village),251 Victoria Street Bugis Village Singapore 188035,"['Fast Food', 'Halal']",https://www.burpple.com/long-john-silver-bugis-village
+Ya Kun Kaya Toast (Bugis Junction),200 Victoria Street #B1-11 Bugis Junction Singapore 188024,"['Local Delights', 'Bread', 'Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/yakun-kaya-toast-bugis-junction
+The Original Boat Noodle (Bugis Junction),200 Victoria Street #02-46 Bugis Junction Singapore 188021,['Thai'],https://www.burpple.com/the-original-boat-noodle-bugis-junction
+Jalan Tua Kong Lau Lim (Bugis),269 Queen Street #01-235 Singapore 180269,['Hawker Food'],https://www.burpple.com/jalan-tua-kong-lau-lim-mee-pok-at-bugis
+The Connoisseur Concerto (Bugis Junction Atrium),80 Middle Road #01-97 Bugis Junction Singapore 188966,"['Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/tccbugis-junction
+Fika Swedish Cafe & Bistro,257 Beach Road Singapore 199539,"['Cafes & Coffee', 'Western', 'Halal']",https://www.burpple.com/fika-swedish-cafe-bistro
+Xiao Long Kan Hotpot (Bugis Junction),200 Victoria Street #02-54 Bugis Junction Singapore 188021,"['Rainy Day Comforts', 'Supper', 'Late Night', 'Chinese', 'Steamboat']",https://www.burpple.com/xiao-long-kan-hotpot-bugis-junction
+HAYO,112 Middle Road #01-00C Midland House Singapore 188970,"['Ice Cream & Yoghurt', 'Healthy', 'Desserts']",https://www.burpple.com/hayo-100-australian-artisanal-yogurt-beverage
+Albert Centre Market & Food Centre,270 Queen Street Singapore 180270,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/albert-centre-market-food-centre-queen-street-market
+Q-WA Izakaya (Beach Road),103 Beach Road #01-02 Singapore 189704,"['Bars', 'Japanese', 'Good For Groups', '1-For-1 Deals']",https://www.burpple.com/qwa-izakaya-beach-road
+LeNu Chef Wai’s Noodle Bar (Bugis Junction),200 Victoria Street #B1-22 Bugis Junction Singapore 188021,['Taiwanese'],https://www.burpple.com/lenu-taiwan-beef-noodle-bar
+Crystal Jade La Mian Xiao Long Bao (Bugis Junction),200 Victoria Street #B1-04A Bugis Junction Singapore 188021,"['Dim Sum', 'Good For Groups', 'Chinese']",https://www.burpple.com/crystal-jade-la-mian-xiao-long-bao-5
+Ah Heng Curry Chicken Bee Hoon Mee (Bugis),269B Queen Street #01-236 QS269 Food House Singapore 182269,"['Rainy Day Comforts', 'Hawker Food']",https://www.burpple.com/ah-heng-curry-noodles-bugis
+Deli Moroccan,51 Bussorah Street Singapore 199467,"['Middle Eastern', 'Turkish']",https://www.burpple.com/deli-moroccan
+Blanco Court Fried Fish Noodles,325 Beach Road Singapore 199559,"['Rainy Day Comforts', 'Soup', 'Hawker Food']",https://www.burpple.com/blanco-court-fish-soup
+I am... (Haji Lane),674 North Bridge Road #01-01 Singapore 188804,"['Burpple Guides', 'Cafes & Coffee', 'Burgers', 'Western', 'Halal']",https://www.burpple.com/i-am-cafe
+ROCKU Yakiniku,201 Victoria Street #04-06 Bugis+ Singapore 188067,"['Steak', 'Buffets', 'Japanese', 'Good For Groups', 'BBQ']",https://www.burpple.com/rocku-japanese-charcoal-grill
+Milksha (Funan),107 North Bridge Road #02-K07 Funan Singapore 179105,"['Taiwanese', 'Desserts', 'Takeaway Available', 'Bubble Tea']",https://www.burpple.com/milksha-funan
+Ri Ji Porridge (Queen Street),269B Queen Street QS269 Coffeeshop Singapore 182269,['Hawker Food'],https://www.burpple.com/SyzYHE84
+Box n Sticks,28 Kandahar Street Singapore 198889,"['Sushi', 'Japanese', 'Dinner With Drinks', 'Good For Groups']",https://www.burpple.com/box-n-sticks
+Blanco Court Prawn Noodle,243 Beach Road #01-01 Singapore 189754,"['Local Delights', 'Hawker Food']",https://www.burpple.com/blanco-court-prawn-mee
+Warong Nasi Pariaman,736/738 North Bridge Road Singapore 198706,"['Local Delights', 'Indonesian', 'Halal']",https://www.burpple.com/warong-nasi-pariaman
+Bai Nian Niang Dou Fu (Albert Centre Market & Food Centre),270 Queen Street #01-106 Albert Centre Market & Food Centre Singapore 180270,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/sgYXV5q7
+Beirut Grill,72 Bussorah Street Singapore 199485,"['Middle Eastern', '1-For-1 Deals', 'Mediterranean']",https://www.burpple.com/beirut-grill
+La Marelle Café & Boutique,25A Baghdad Street Singapore 199664,"['Burpple Guides', 'Cafes & Coffee', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/la-marele-cafe
+Alaturka,15 Bussorah Street Singapore 199436,"['Middle Eastern', 'Turkish', 'Good For Groups', 'Mediterranean', 'Halal']",https://www.burpple.com/alaturka-restaurant-1
+Tabbouleh (Bussorah Street),54 Bussorah Street Singapore 199470,"['Middle Eastern', 'Turkish', '1-For-1 Deals']",https://www.burpple.com/tabbouleh-bussorah-street
+Warung Ijo,337 Beach Road Singapore 199565,"['Local Delights', 'Vegetarian', 'Cafes & Coffee', 'Indonesian', 'Nasi Lemak']",https://www.burpple.com/warung-ijo
+Pancake Boss Martabak Manis,470 North Bridge Road #04-15 Bugis Cube Mall Singapore 188735,"['Desserts', 'Indonesian']",https://www.burpple.com/pancake-boss
+Chong Qing (Original) Steamboat Hotpot 重庆正宗老火锅,87 Beach Road #01-02 Chye Sing Building Singapore 189695,"['Supper', 'Late Night', 'Chinese', 'Steamboat']",https://www.burpple.com/chong-qing-zheng-zhong-ma-la-huo-guo-steamboat
+Nan Hwa Chong Fish Head Steamboat Corner,812/814/816 North Bridge Road Singapore 198779,"['Rainy Day Comforts', 'Zi Char', 'Supper', 'Steamboat']",https://www.burpple.com/nan-hwa-chong-fish-head-steamboat-corner
+Good Luck Beerhouse,9 Haji Lane Singapore 189202,"['Bars', 'Dim Sum', 'Late Night', 'Craft Beer']",https://www.burpple.com/good-luck-beerhouse
+Fukusen Japanese Restaurant,33 Jalan Sultan #01-02 Singapore 198965,"['Sushi', 'Chirashi', 'Japanese']",https://www.burpple.com/fukusen-japanese-dining
+Mr Stork,5 Fraser Street Level 39 Andaz Singapore Singapore 189354,"['Bars', 'Great View', 'Late Night', 'Cocktails']",https://www.burpple.com/mr-stork
+NOX - Dine in the Dark,269 Beach Road Singapore 199546,"['Interesting', 'Dinner With Drinks', 'Date Night', 'European']",https://www.burpple.com/nox-dine-in-the-dark
+Chaiholics (Haji Lane),26 Haji Lane The Singapura Club Singapore 189219,['Cafes & Coffee'],https://www.burpple.com/chaiholics-the-singapura-club
+Vege Pot,190 Middle Road #02-31 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy', 'Chinese']",https://www.burpple.com/vege-pot
+New Green Pasture Cafe,190 Middle Road #04-22 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy', 'Cafes & Coffee']",https://www.burpple.com/new-green-pasture-cafe
+Fortune Centre,190 Middle Road Singapore 188979,"['Vegetarian', 'Kopitiam']",https://www.burpple.com/fortune-centre
+Tabbouleh (Arab Street),41 Arab Street Singapore 199740,"['Middle Eastern', 'Turkish', '1-For-1 Deals']",https://www.burpple.com/tabbouleh
+Herbivore,190 Middle Road #01-13/14 Fortune Centre Singapore 188979,"['Sushi', 'Vegetarian', 'Japanese', 'Healthy']",https://www.burpple.com/herbivore
+Padi,53 Bussorah Street Singapore 199469,"['Malay', 'Halal']",https://www.burpple.com/padi
+The Green Oven (Alley on 25),5 Fraser Street Level 25 Andaz Singapore Alley on 25 Singapore 189354,"['Great View', 'Dinner With Drinks', 'Good For Groups', 'Western', 'Breakfast & Brunch']",https://www.burpple.com/the-green-oven
+So France,7 Fraser Street #01-51/56 DUO Galleria Singapore 189356,"['French', 'Dinner With Drinks', 'Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/so-france
+Maison Ikkoku,20 Kandahar Street Level 2 Singapore 198885,"['Bars', 'Japanese', 'Dinner With Drinks', 'Date Night', 'European', 'Late Night', 'Cocktails']",https://www.burpple.com/fort-by-maison-ikkoku
+Song Garden,122 Middle Road Mercure Singapore Bugis Singapore 188973,"['Dim Sum', 'Good For Groups', 'Chinese']",https://www.burpple.com/song-garden-at-mecure-hotel-bugis
+% Arabica (Arab Street),56 Arab Street Singapore 199753,"['Cafes & Coffee', 'Desserts']",https://www.burpple.com/arabica-singapore-arab-street
+Ciao Italian Risto Bar,8 Haji Lane #01-01 Singapore 189201,"['Pasta', 'Italian', 'Pizza', 'Dinner With Drinks', 'Date Night', 'Late Night']",https://www.burpple.com/ciao-1
+PizzaExpress (DUO Galleria),7 Fraser Street #01-01/02 DUO Galleria Singapore 189356,"['Pasta', 'Italian', 'Pizza']",https://www.burpple.com/pizza-express-11
+Baker & Cook (InterContinental Singapore),80 Middle Road InterContinental Singapore Singapore 188966,"['Bread', 'Cafes & Coffee', 'Desserts', 'Breakfast & Brunch']",https://www.burpple.com/gpeTKsBi
+IB HQ,774A North Bridge Road Singapore 198742,"['Bars', 'Cocktails']",https://www.burpple.com/ib-hq
+Joe & Dough (DUO Galleria),7 Fraser Street #01-34/35 DUO Galleria Singapore 189356,"['Sandwiches', 'Cafes & Coffee', 'Desserts', 'Cakes', 'Breakfast & Brunch']",https://www.burpple.com/joe-dough-cafe
+Meomi Cat Cafe,668 North Bridge Road Singapore 188801,"['Interesting', 'Cafes & Coffee']",https://www.burpple.com/meomi-cat-cafe
+Lina's Cafe,7 Jalan Pisang Singapore 199074,"['Local Delights', 'Cafes & Coffee', 'Malay', 'Desserts', 'Cakes', 'Halal']",https://www.burpple.com/linas-cafe
+Man Man Japanese Unagi Restaurant (DUO Galleria),7 Fraser Street #01-48 DUO Galleria Singapore 189356,"['Seafood', 'Japanese']",https://www.burpple.com/man-man-japanese-unagi-restaurant-duo-galleria
+HolyCrab,2 Tan Quee Lan Street #01-03 Singapore 188091,"['Seafood', 'Zi Char', 'Chinese']",https://www.burpple.com/holycrab
+Bergs Gourmet Burgers (Haji Lane),10 Haji Lane Singapore 189203,"['Burgers', 'Western']",https://www.burpple.com/bergs-haji-lane
+Small’s,161 Middle Road Singapore 188978,['Pizza'],https://www.burpple.com/smalls
+Islamic Restaurant,745 North Bridge Road Singapore 198713,"['Burpple Guides', 'Indian', 'Cheap & Good', 'Hawker Food', 'Halal']",https://www.burpple.com/islamic-restaurant
+Pizza Fabbrica,70 Bussorah Street Singapore 199483,"['Pasta', 'Italian', 'Pizza', 'Dinner With Drinks', 'Date Night']",https://www.burpple.com/pizza-fabbrica
+Chow Zan Dessert,801 North Bridge Road Singapore 198769,['Desserts'],https://www.burpple.com/dessert-chow-zan
+Kao Gong Fu,470 North Bridge Road #01-02 Bugis Cube Singapore 188735,"['Supper', 'Late Night', 'Chinese', 'Steamboat']",https://www.burpple.com/kao-gong-fu
+Xun Wei Hotpot,28 Liang Seah Street Singapore 189049,"['Rainy Day Comforts', 'Buffets', 'Supper', 'Chinese', 'Steamboat']",https://www.burpple.com/xun-wei-hotpot
+Zhong Hua Steamboat & Ramen,95 Beach Road #01-01 Singapore 189699,"['Buffets', 'Japanese', 'Supper', 'Steamboat']",https://www.burpple.com/zhong-hua-steamboat-ramen
+Ji De Chi Dessert (Liang Seah Court),8 Liang Seah Street #01-03 Liang Seah Court Singapore 189029,"['Desserts', 'Supper']",https://www.burpple.com/ji-de-chi-dessert
+Cao Vietnamese Cuisine,2 Liang Seah Street Singapore 189023,['Vietnamese'],https://www.burpple.com/cao-vietnamese-cuisine
+Muzium Cafe,8/9 Bali Lane Singapore 189845,"['Turkish', 'Cafes & Coffee', 'Mediterranean']",https://www.burpple.com/muzium-cafe
+Coco&Frank,12 Haji Lane Singapore 189205,['Desserts'],https://www.burpple.com/cocofrank
+Asia Baru Snack Bar,390 Victoria Street #02-55 Golden Landmark Shopping Centre Singapore 188061,['Hawker Food'],https://www.burpple.com/asia-baru-snack-bar
+Goodwill Cafeteria,390 Victoria Street #02-32 Golden Landmark Shopping Complex Singapore 188061,"['Cafes & Coffee', 'Hawker Food']",https://www.burpple.com/golden-landmark-shopping-complex
+Singapore Famous Rojak (Albert Centre Market & Food Centre),270 Queen Street #01-45 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/singapore-famous-rojak
+2CÔ SG,269B Queen Street #01-236 QS269 Food House Singapore 182269,"['Vietnamese', 'Hawker Food']",https://www.burpple.com/2-co-sg
+Zheng Xing Mei Shi (Albert Centre Market & Food Centre),270 Queen Street #01-64 Albert Centre Market & Food Centre Singapore 180270,"['Desserts', 'Hawker Food']",https://www.burpple.com/zheng-xing-mei-shi
+Tien Fook (Albert Centre Market & Food Centre),270 Queen Street #01-116 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/tien-fook
+Ah Seng Bak Chor Mee (Albert Centre Market & Food Centre),270 Queen Street #01-77 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/ah-seng-bak-chor-mee
+Korean Food (Fortune Centre),190 Middle Road #02-18 Fortune Centre Singapore 188979,"['Cheap & Good', 'Korean']",https://www.burpple.com/korean-food
+Li Fang Congee (Albert Centre Market & Food Centre),270 Queen Street #01-78 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/li-fang-porridge
+Yellow Box,345 Beach Road Singapore 199568,"['Malay', 'Indonesian', 'Hawker Food']",https://www.burpple.com/yellow-box
+Crispy Pancake,3 New Bugis Street Bugis Village Singapore 188867,['Desserts'],https://www.burpple.com/crispy-pancake-bugis-street
+Just Steam 纯蒸,776 North Bridge Road Singapore 198744,"['Seafood', 'Healthy', 'Good For Groups', 'Chinese']",https://www.burpple.com/just-steam
+K-ju,112 Middle Road #01-00A Midland House Singapore 188970,"['Bars', 'Korean']",https://www.burpple.com/kju
+Green Bliss Habitat,190 Middle Road #02-01 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian']",https://www.burpple.com/green-bliss-habitat
+Traditional Wanton Noodle (Albert Centre Market & Food Centre),270 Queen Street #01-118 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/traditional-wanton-noodle-albert-centre
+Asian House,190 Middle Road #01-32 Fortune Centre Singapore 188979,"['Local Delights', 'Hawker Food']",https://www.burpple.com/asian-house
+Eat 3 Cuts,175 Bencoolen Street #01-49 Burlington Square Singapore 189649,"['Chinese', 'Hawker Food']",https://www.burpple.com/eat3cuts
+Sushi Plus,200 Victoria Street #02-53 Bugis Junction Singapore 188021,"['Sushi', 'Japanese']",https://www.burpple.com/sushi-plus-bugis-junction
+SaladStop! (DUO Galleria),7 Fraser Street #01-58 DUO Galleria Singapore 189350,"['Healthy', 'Salads', 'Takeaway Available']",https://www.burpple.com/saladstop-duo-galleria
+Agrobazaar Malaysia,43 Sultan Gate Singapore 198485,"['Local Delights', 'Cafes & Coffee']",https://www.burpple.com/agrobazaar-malaysia
+Chu Tang 初堂,7 Fraser Street #B3-07 DUO Galleria Singapore 189356,"['Taiwanese', 'Sandwiches', 'Desserts']",https://www.burpple.com/chu-tang
+All In,660 North Bridge Road Singapore 188797,"['Ice Cream & Yoghurt', 'Cafes & Coffee', 'Desserts', 'Halal']",https://www.burpple.com/all-in
+Meating Place,7 Fraser Street #01-27 DUO Galleria Singapore 189356,"['Steak', 'Western']",https://www.burpple.com/meating-place
+Fukusen Izakaya,51 Jalan Sultan Singapore 198975,['Japanese'],https://www.burpple.com/fukusen-izakaya
+Teppan Chef's Table,5 Fraser Street Level 25 Andaz Singapore Singapore 189354,['Japanese'],https://www.burpple.com/teppan-chefs-table
+Tai Liu Crayfish,1 Liang Seah Street #01-07/08 Singapore 189022,"['Seafood', 'Supper', 'Chinese']",https://www.burpple.com/tai-liu-crayfish
+Noodle Thai Thai Kitchen (Beach Road),327 Beach Road Singapore 199560,"['Thai', 'Cheap & Good', 'Takeaway Available']",https://www.burpple.com/noodle-thaithai-kitchen
+Puri-Puri,367 Beach Road Singapore 199579,['Japanese'],https://www.burpple.com/puripuri
+Funq,20 Haji Lane Singapore 189213,"['Bars', 'Late Night']",https://www.burpple.com/funq-sg
+Happy Crab,13 Pahang Street Singapore 198613,"['Seafood', 'Zi Char', 'Good For Groups', 'Hawker Food']",https://www.burpple.com/happy-crab
+Victory Restaurant,701 North Bridge Road Singapore 198677,"['Burpple Guides', 'Indian', 'Cheap & Good', 'Supper', 'Hawker Food']",https://www.burpple.com/victory-restaurant-pte-ltd
+Say Seng Cooked Food (Albert Centre Market & Food Centre),270 Queen Street #01-92 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/say-seng-cooked-food
+Pondok Jawa Timur,737 North Bridge Road Singapore 198705,"['Indonesian', 'Halal']",https://www.burpple.com/pondok-jawa-timur
+Queen St. Prawn Noodles (Albert Centre Market & Food Centre),270 Queen Street #01-60 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/queen-st-prawn-noodles
+BAIT,73 Bussorah Street Singapore 199486,"['Bars', 'Pizza', 'Western']",https://www.burpple.com/baitsg
+Seow Choon Hua Restaurant,33 Sultan Gate Singapore 198481,"['Cheap & Good', 'Chinese', 'Hawker Food']",https://www.burpple.com/seow-choon-hua-restaurant
+Sari Ratu Restaurant (Haji Lane),20 Pahang Street Singapore 198617,['Indonesian'],https://www.burpple.com/sari-ratu-restaurant
+Jagjit Dhaba,12 Pahang Street Singapore 198613,['Hawker Food'],https://www.burpple.com/jagjit-dhaba
+No Name Teh Sarabat Stall,21 Baghdad Street Singapore 199660,"['Indian', 'Hawker Food']",https://www.burpple.com/teh-sarabat-stall
+Nasrin Authentic Persian Cuisine,58 Arab Street Singapore 199755,['Middle Eastern'],https://www.burpple.com/nasrin-i-restaurant
+Luk Lu Eating House,341 Beach Road Singapore 199567,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/luk-lu-eating-house
+Barcook Bakery (OG Albert Complex),60 Albert Street #01-03/04 OG Albert Complex Singapore 189969,"['Bread', 'Desserts', 'Cakes']",https://www.burpple.com/barcook-bakery
+328 Katong Laksa (OG Albert Complex),60 Albert Street #01-02 OG Albert Complex Singapore 189969,"['Local Delights', 'Hawker Food']",https://www.burpple.com/katong-laksa-bugis
+Plancha’Lah! (Alley on 25),5 Fraser Street Level 25 Andaz Singapore Alley on 25 Singapore 189354,"['Dinner With Drinks', 'Date Night']",https://www.burpple.com/planchalah
+Four Season Coffee Bread,190 Middle Road #01-02 Fortune Centre Singapore 188979,"['Kopitiam', 'Bread', 'Cafes & Coffee']",https://www.burpple.com/four-season-coffee-bread
+MooTeow Chilli Beef Kway Teow (Wild Market),100 Beach Road #01-31 Shaw Towers Wild Market Singapore 189702,['Hawker Food'],https://www.burpple.com/mooteow
+Bunny Tea,7 Fraser Street #01-57 DUO Galleria Singapore 189356,['Desserts'],https://www.burpple.com/bunny-tea
+FatBack & Rye,53 Haji Lane Singapore 189246,"['Bars', 'Sandwiches', 'Craft Beer', 'Cocktails']",https://www.burpple.com/fatback-rye
+Yummy Rice Shop (Albert Centre Market & Food Centre),270 Queen Street #01-107 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/yummy-rice-shop
+Fortune Food (Albert Centre Market & Food Centre),270 Queen Street #01-80 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/fortune-food-albert-centre-market-food-centre
+New Rong Liang Ge Cantonese Roast Duck (Queen Street),269B Queen Street #01-235 3838 Eating Place Singapore 182269,"['Local Delights', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/new-rong-liang-ge
+Whampoa Soya Bean (Albert Centre Market & Food Centre),270 Queen Street #01-56 Albert Centre Market & Food Centre Singapore 180270,"['Desserts', 'Hawker Food']",https://www.burpple.com/whampoa-soya-bean-1
+Sa Tae Bak,31 Bali Lane Singapore 189867,"['Bars', 'BBQ']",https://www.burpple.com/sa-tae-bak
+Sufi's Corner,56 Arab Street Singapore 199747,"['Middle Eastern', 'Turkish', 'Late Night', 'Mediterranean']",https://www.burpple.com/sufis-corner-singapore
+Angel Horse Teochew Fish Soup (Albert Centre Market & Food Centre),270 Queen Street #01-95 Albert Centre Market & Food Centre Singapore 180270,"['Rainy Day Comforts', 'Hawker Food']",https://www.burpple.com/angel-horse-teochew-fish-soup-stall-0195
+Thunder Tea Rice (Queen Street),269 Queen Street #01-236 Chang Cheng Mee Wah Singapore 180269,"['Vegetarian', 'Healthy', 'Hawker Food']",https://www.burpple.com/thunder-tea-rice-queen-street
+Tai Loke Hainan Chicken Rice,269B Queen Street #01-235 Singapore 182269,"['Chicken Rice', 'Hawker Food']",https://www.burpple.com/tai-loke-hainanese-chicken-rice
+Rochor Centre Kopitiam,1 Rochor Road Singapore 180001,['Hawker Food'],https://www.burpple.com/rochor-centre-block-1
+Xin Xiang Gang Congee Centre Traditional Claypot Rice (Albert Centre Market & Food Centre),270 Queen Street #01-55 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/xin-xiang-gang-congee-centre-traditional-claypot-rice-albert-cen
+Sushi Don,8 Wilkie Road #01-16 Wilkie Edge Singapore 228095,"['Chirashi', 'Japanese']",https://www.burpple.com/sushi-don
+Al Jazeera Turkish & Middle Eastern Cuisine,43 Bussorah Street Singapore 199461,"['Middle Eastern', 'Turkish']",https://www.burpple.com/al-jazeera-turkish-middle-eastern-cuisine
+Victoria Bar,"80 Middle Road Level 1, Intercontinental Singapore Singapore 188966",['Bars'],https://www.burpple.com/victoria-bar
+Icehaus (Alley on 25),5 Fraser Street Level 25 Andaz Singapore Alley on 25 Singapore 189354,"['Seafood', 'Buffets', 'Salads', 'Western']",https://www.burpple.com/icehaus
+Bodhi Deli,190 Middle Road #03-26A Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Hawker Food']",https://www.burpple.com/bodhi-deli
+Boulevard (DUO Galleria),7 Fraser Street #01-30/31 DUO Galleria Singapore 189356,"['Bars', 'Late Night', 'Burgers', 'Western']",https://www.burpple.com/boulevard-duo-galleria
+Roots by Raw Elements,190 Middle Road #03-19 Fortune Centre Singapore 188979,"['Western', 'Takeaway Available']",https://www.burpple.com/roots-by-raw-elements
+Sufi's Corner,56 Arab Street Singapore 199747,"['Middle Eastern', 'Turkish', 'Late Night', 'Mediterranean']",https://www.burpple.com/sufis-corner-singapore
+Angel Horse Teochew Fish Soup (Albert Centre Market & Food Centre),270 Queen Street #01-95 Albert Centre Market & Food Centre Singapore 180270,"['Rainy Day Comforts', 'Hawker Food']",https://www.burpple.com/angel-horse-teochew-fish-soup-stall-0195
+MAMANDA,73 Sultan Gate Singapore 198497,"['Malay', 'Good For Groups', 'Halal']",https://www.burpple.com/mamanda-restaurant
+M.A. Deen Biasa,95 Jalan Sultan #01-01 Singapore 198998,"['Indian', 'Malay', 'Supper', 'Hawker Food', 'Halal']",https://www.burpple.com/m-a-deenbiasa-s-pte-ltd-king-of-soup-tulang
+Sticky Rice,23 Bali Lane Singapore 189859,"['Thai', 'Halal']",https://www.burpple.com/sticky-rice-1
+Sinseh: The Grocery,9 Jalan Pisang #01-01 Singapore 199076,"['Ice Cream & Yoghurt', 'Desserts', 'Waffles', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/sinseh-the-grocery
+Ash & Elm,80 Middle Road Level 1 InterContinental Singapore Singapore 188966,"['Buffets', 'Dinner With Drinks', 'Date Night', 'European']",https://www.burpple.com/ash-elm
+The Cat Cafe,241B Victoria Street Singapore 188030,"['Interesting', 'Cafes & Coffee']",https://www.burpple.com/the-cat-cafe
+The Landmark,390 Victoria Street #05-01 Village Hotel Bugis Singapore 188061,"['Buffets', 'Good For Groups', 'Halal']",https://www.burpple.com/the-landmark-1
+Auntie’s Wok & Steam (Alley on 25),5 Fraser Street Level 25 Andaz Singapore Alley on 25 Singapore 189354,"['Seafood', 'Great View', 'Dinner With Drinks', 'Chinese']",https://www.burpple.com/aunties-wok-steam
+Xiao Jun Gan Chuan Chuan Xiang (Beach Road),101 Beach Road #01-01 Singapore 189703,"['Rainy Day Comforts', 'Buffets', 'Supper', 'Chinese', 'Steamboat']",https://www.burpple.com/xiaojunganchuanchuanxiang
+Taliwang Restaurant,26 Kandahar Street Singapore 198888,"['Indonesian', 'Halal']",https://www.burpple.com/taliwang-restaurant
+Dahlia Cafe,390 Victoria Street #02-21/22 Golden Landmark Singapore 188061,"['Cafes & Coffee', 'Malay', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/dahlia-cafe
+Yama-Ya,190 Middle Road #01-33 Fortune Centre Singapore 188979,['Japanese'],https://www.burpple.com/yama-ya
+Perfetto Cafe,11 Bussorah Street Singapore 199432,"['Cafes & Coffee', 'Western', 'Breakfast & Brunch']",https://www.burpple.com/perfetto-cafe
+WitBier,14 Aliwal Street Singapore 199907,"['Bars', 'Dinner With Drinks', 'Late Night']",https://www.burpple.com/witbier-cafe
+KINS Restaurant,2 Jalan Klapa Singapore 199314,"['Pasta', 'Western']",https://www.burpple.com/kins-restaurant
+Bar Stories,57A Haji Lane Singapore 189250,"['Bars', 'Late Night', 'Cocktails']",https://www.burpple.com/bar-stories
+Ambrosia,19 Baghdad Street Singapore 199658,['Mediterranean'],https://www.burpple.com/ambrosia-1
+Sabar Menanti II (North Bridge Road),747 North Bridge Road Singapore 198715,"['Malay', 'Indonesian', 'Hawker Food']",https://www.burpple.com/sabar-menanti-ii
+Pondok Rasa (Marrison Hotel),103 Beach Road #01-02 Marrison Hotel Singapore 189704,['Indonesian'],https://www.burpple.com/pondok-rasa-medan-authentic-cuisine
+Quest Food House,807 North Bridge Road Singapore 198775,['Supper'],https://www.burpple.com/quest-food-house
+Hjh Maimunah Restaurant (Jalan Pisang),11/15 Jalan Pisang Singapore 199078,"['Local Delights', 'Malay', 'Good For Groups', 'Indonesian', 'Halal']",https://www.burpple.com/hajah-maimunah-restaurant-arab-st
+Geylang Claypot Rice,361/363/365 Beach Road Singapore 199576,"['Rainy Day Comforts', 'Zi Char', 'Supper', 'Good For Groups', 'Hawker Food']",https://www.burpple.com/geylang-claypot-rice
+Singapore Zam Zam Restaurant Pte Ltd,697 North Bridge Road Singapore 198675,"['Local Delights', 'Burpple Guides', 'Indian', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/singapore-zam-zam-restaurant
+Guan Kee Fried Carrot Cake (Albert Centre Market & Food Centre),270 Queen Street #01-59 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/guan-kee-fried-carrot-cake--albert-center
+Ting Yuan Hotpot,22 Liang Seah Street Singapore 189043,"['Rainy Day Comforts', 'Buffets', 'Good For Groups', 'Chinese', 'Steamboat']",https://www.burpple.com/ting-yuan-mala-hot-pot
+Beaver's Pub & Grill,33 Liang Seah Street #01-01/02 Singapore 189054,"['Bars', 'Late Night', 'Western']",https://www.burpple.com/beavers-pub-gril
+Fluff Bakery,4 Jalan Pisang Singapore 199071,"['Burpple Guides', 'Desserts', 'Cakes', 'Halal']",https://www.burpple.com/fluf-bakery
+Difference Bakery (Queen Street),269B Queen Street Cheng Yan Court Singapore 182269,['Bread'],https://www.burpple.com/difference-bakery-1
+Mihrimah Restaurant,742 North Bridge Road Singapore 198710,"['Malay', 'Supper', 'Hawker Food']",https://www.burpple.com/mihrimah-restaurant
+Jian Bo Tiong Bahru Shui Kueh (Albert Centre Market & Food Centre),270 Queen Street #01-72 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/jian-bo-shui-kueh-albert-court
+Heritage Food Street,585 North Bridge Road #B1-01 Raffles Hospital Singapore 188770,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/heritage-food-street
+Bhai Sarbat,21 Bussorah Street Singapore 119439,"['Indian', 'Hawker Food']",https://www.burpple.com/bhai-sarbat-singapore
+Quán Ăn Vặt,3 New Bugis Street Singapore 188867,['Vietnamese'],https://www.burpple.com/quan-an-vat
+Heng Long Teochew Porridge (North Bridge Road),809 North Bridge Road Singapore 198777,"['Rainy Day Comforts', 'Hawker Food']",https://www.burpple.com/heng-long-teochew-porridge-north-bridge-road
+Nerdy Noodles,201 Victoria Street #04-09 Bugis+ Singapore 188067,['Chinese'],https://www.burpple.com/nerdynoodlessg
+The Dragon Tree,180 Bencoolen Street #01-04 The Bencoolen Singapore 189648,['Hawker Food'],https://www.burpple.com/the-dragon-tree-katong-laksa
+Mac Doner Lebanese Restaurant,26 Baghdad Street Singapore 199665,"['Middle Eastern', 'Turkish']",https://www.burpple.com/mac-doner-kebab-and-grill
+Café Kapok,111 Middle Road #01-05 Singapore 188969,"['Cafes & Coffee', 'Cakes']",https://www.burpple.com/cafe-kapok
+SLING,20 Kandahar Street #01-01 Singapore 198885,"['Peranakan', 'Bars', 'Cocktails']",https://www.burpple.com/sling
+No Milk,18 Pahang Street Singapore 198615,"['Local Delights', 'Bars']",https://www.burpple.com/no-milk
+Salaz Putu Piring,13 Pahang Street Singapore 198614,"['Malay', 'Desserts', 'Hawker Food']",https://www.burpple.com/salaz-putu-piring
+A Poke Theory (DUO Galleria),7 Fraser Street #01-36/37 DUO Galleria Singapore 189356,"['Healthy', 'Salads', 'Desserts', 'Halal']",https://www.burpple.com/a-poke-theory-duo-galleria
+Idealite,153 Rochor Road Singapore 188428,"['Vegetarian', 'Healthy']",https://www.burpple.com/idealite-1
+Cô Hai Bánh Mì,359 Beach Road Singapore 199575,"['Vietnamese', 'Sandwiches']",https://www.burpple.com/co-hai-banh-mi
+& Why,31 Bali Lane Singapore 189867,"['Desserts', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/and-why
+Yat Ka Yan,190 Middle Road #02-08 Fortune Centre Singapore 188979,['Desserts'],https://www.burpple.com/yat-ka-yan
+& Why,31 Bali Lane Singapore 189867,"['Desserts', 'Cakes', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/and-why
+Salaz Putu Piring,13 Pahang Street Singapore 198614,"['Malay', 'Desserts', 'Hawker Food']",https://www.burpple.com/salaz-putu-piring
+Le Fuse,47 Arab Street Singapore 199744,"['Chinese', 'Halal']",https://www.burpple.com/le-fuse
+Yo,27 Arab Street #01-01 Singapore 199726,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/yo
+Yat Ka Yan,190 Middle Road #02-08 Fortune Centre Singapore 188979,['Desserts'],https://www.burpple.com/yat-ka-yan
+Looksee Looksee,267 Beach Road Singapore 199545,['Hidden Gem'],https://www.burpple.com/looksee-looksee
+Ichikokudo Hokkaido Ramen (Bussorah Street),45 Bussorah Street #01-01 Singapore 199463,"['Ramen', 'Japanese', 'Halal']",https://www.burpple.com/ichikokudo-hokkaido-ramen-5
+Sanobar Lebanese Restaurant,29 Bussorah Street Singapore 199447,['Middle Eastern'],https://www.burpple.com/sanobar-lebanese-restaurant
+Idlewild,80 Middle Road Lobby Level InterContinental Singapore Singapore 188966,"['Bars', 'Late Night', 'Cocktails']",https://www.burpple.com/idlewild
+The Dim Sum Place,791 North Bridge Road Singapore 198759,"['Dim Sum', 'Supper', 'Chinese', 'Halal']",https://www.burpple.com/the-dim-sum-place
+Byblos Grill,14 Bussorah Street Singapore 199435,"['Middle Eastern', 'Late Night']",https://www.burpple.com/byblos-grill
+Captain K Seafood Tower,112 Middle Road #01-00A Midland House Singapore 188970,"['Seafood', 'Rainy Day Comforts', 'Good For Groups', 'Korean', 'Steamboat']",https://www.burpple.com/captain-k-seafood-tower-middle-road
+La Cala,7 Fraser Street #01-40/43 DUO Galleria Singapore 189356,"['Spanish', 'Date Night', 'Mediterranean']",https://www.burpple.com/la-cala
+The Braiserie,190 Middle Road #01-06 Fortune Centre Singapore 188979,['Chinese'],https://www.burpple.com/the-braiserie
+Prince Coffee House,249 Beach Road Singapore 189757,"['Local Delights', 'Hidden Gem', 'Western']",https://www.burpple.com/prince-coffee-house
+Blu Jaz Café,11 Bali Lane Historic Kampong Glam Singapore 189848,"['Bars', 'Late Night', 'Western', 'Mediterranean']",https://www.burpple.com/blujazz
+3838 Eating Place (Queen Street),269B Queen Street Singapore 182269,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/3838-eating-place
+Dessert Station (Albert Centre Market & Food Centre),270 Queen Street #01-41 Albert Centre Market & Food Centre Singapore 180270,"['Desserts', 'Hawker Food']",https://www.burpple.com/zhen-jie-traditional-dessert
+Bistro Duo,7 Fraser Street #01-25/26 Duo Galleria Singapore 189356,"['Bars', 'Western']",https://www.burpple.com/bistro-duo-bar-grill
+Chikuyotei (InterContinental Singapore),80 Middle Road #01-01 InterContinental Singapore Singapore 188966,"['Sushi', 'Chirashi', 'Japanese', 'Date Night', 'Fine Dining']",https://www.burpple.com/chikuyotei-japanese-restaurant
+Eleven Finger (Eu Kee) Scissors Cut Curry Rice,269B Queen Street #01-235 Singapore 182269,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/eleven-fingers-scisors-cut-cury-rice
+North South Cuisine 南北名厨,351 Beach Road Singapore 199571,"['Supper', 'Late Night', 'Chinese']",https://www.burpple.com/north-south-cuisine
+Fei Kee Claypot Chicken Rice,341 Beach Road Luk Lu Eating House Singapore 199567,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/fei-kee-claypot-chicken-rice
+Al-Tasneem Restaurant,709 North Bridge Road Singapore 198681,['Halal'],https://www.burpple.com/altasneem-restaurant
+Eleven Finger (Eu Kee) Scissors Cut Curry Rice,269B Queen Street #01-235 Singapore 182269,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/eleven-fingers-scisors-cut-cury-rice
+Ming Kitchen Seafood Restaurant (Queen Street),269 Queen Street #01-236 Cheng Yan Court Singapore 180269,"['Seafood', 'Zi Char', 'Steamboat']",https://www.burpple.com/ming-kitchen-seafood-restaurant-queen-street
+Al-Sahira (Jalan Sultan),200 Jalan Sultan #01-05 Textile Centre Singapore 199018,"['Indian', 'Supper', 'Hawker Food', 'Halal']",https://www.burpple.com/al-sahira
+Coffee Time,269 Queen Street #01-234 Singapore 180269,"['Local Delights', 'Cafes & Coffee']",https://www.burpple.com/coffee-time
+Bakerzin (Raffles Hospital),585 North Bridge Road #01-08 Raffles Hospital Singapore 188770,"['Desserts', 'Cakes', 'Western']",https://www.burpple.com/bakerzin-raffles-hospital
+La Teh Cafe (Fortune Centre),190 Middle Road #02-18A Fortune Centre Singapore 188979,"['Local Delights', 'Cafes & Coffee']",https://www.burpple.com/la-teh-cafe-1
+Foo Chow Fish Ball (Sultan Gate),33 Sultan Gate Seow Choon Hua Restaurant Singapore 198481,['Hawker Food'],https://www.burpple.com/foo-chow-fish-ball-sultan-gate
+Boat Story Thai Boat Noodle (Parklane Shopping Mall),35 Selegie Road #02-25B Parklane Shopping Mall Singapore 188307,"['Thai', 'Supper']",https://www.burpple.com/boat-story-thai-boat-noodle-parklane-shopping-mall
+Panda CooL King,470 North Bridge Road #01-05 Bugis Cube Singapore 188735,"['Supper', 'BBQ', 'Chinese']",https://www.burpple.com/panda-cool-king
+Teppan No Hoshi,201 Victoria Street #04-10 Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/teppan-no-hoshi
+SugarKid,191 Rochor Road #B2-10 Bugis MRT Station Singapore 188476,['Desserts'],https://www.burpple.com/tang-zai-desserts
+Choo Chiang Roasted Meat Noodle House (Bencoolen Road),180 Bencoolen Street #01-05 The Bencoolen Singapore 189646,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/YzjZi-S9
+Al'Frank Cookies,12 Haji Lane Singapore 189205,['Desserts'],https://www.burpple.com/alfrank-cookies
+Chuan Kee Duck Rice,341 Beach Road Luk Lu Eating House Singapore 199567,['Hawker Food'],https://www.burpple.com/chuan-kee-duck-rice-beach-road
+Sultan De Casablanca,30 Bussorah Street Singapore 199448,"['Middle Eastern', 'Mediterranean', 'Halal']",https://www.burpple.com/sultan-de-casablanca
+Thong Kay Delight (Albert Centre Market & Food Centre),270 Queen Street #01-97 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/thong-kay-delight
+Peranakan Flavours,7 Tan Quee Lan Street Singapore 188096,"['Peranakan', 'Good For Groups']",https://www.burpple.com/the-peranakan-flavours
+One Canton,200 Victoria Street #01-69 Bugis Junction Singapore 188021,"['Dim Sum', 'Chinese']",https://www.burpple.com/one-canton
+Pondok Makan Indonesia (Albert Centre Market & Food Centre),270 Queen Street #01-123 Albert Centre Market & Food Centre Singapore 180270,"['Indonesian', 'Hawker Food']",https://www.burpple.com/pondok-makan-indonesia
+No.57 Coffee Stand,57 Aliwal Street Singapore 199933,['Cafes & Coffee'],https://www.burpple.com/no57-coffee-stand
+Ya Kun Kaya Toast (Fortune Centre),190 Middle Road #01-09 Fortune Centre Singapore 188979,"['Local Delights', 'Bread', 'Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/yakun-at-fortune-centre
+Kokoro,43 Middle Road #01-00 Singapore 188952,"['Cafes & Coffee', 'Desserts', 'Cakes', 'Breakfast & Brunch']",https://www.burpple.com/kokoro-sg
+The Singapura Club (Haji Lane),26 Haji Lane Singapore 189219,"['Local Delights', 'Indian']",https://www.burpple.com/the-singapura-club
+IL DEN,470 North Bridge Road #03-19 Bugis Cube Singapore 188735,"['Hidden Gem', 'Japanese', 'Dinner With Drinks', 'European']",https://www.burpple.com/il-den
+Tian Yuan Healthy Vegetarian Food Paradise,190 Middle Road #01-16 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy', 'Chinese']",https://www.burpple.com/tian-yuan-vegetarian
+Selfie Coffee,11 Haji Lane Singapore 189204,"['Interesting', 'Cafes & Coffee']",https://www.burpple.com/selfie-coffee-singapore
+MALT Craft Beer Bar,302 Beach Road #01-07 Concourse Skyline Singapore 199600,"['Bars', 'Craft Beer']",https://www.burpple.com/maltcraftbeerbar
+LIMAA,51 Haji Lane Singapore 189244,"['Sandwiches', 'Salads', 'Western', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/limaa
+Jason Niang Dou Fu,312 Beach Road Singapore 199557,"['Rainy Day Comforts', 'Hawker Food', 'Halal']",https://www.burpple.com/jason-niang-dou-fu
+Don Meijin,201 Victoria Street #04-10 Ramen Champion Bugis+ Singapore 188067,['Japanese'],https://www.burpple.com/don-meijin
+Seng Huat Coffee House (North Bridge Road),492 North Bridge Road Singapore 188737,"['Supper', 'Hawker Food']",https://www.burpple.com/seng-huat-coffee-house-bugis-492-north-bridge-road
+13% Gastro Wine (Aliwal),14 Aliwal Street #02-01 Singapore 199907,"['Bars', 'Dinner With Drinks', 'European', 'Late Night']",https://www.burpple.com/13-gastro-wine
+Eaterz,150 Arab Street Singapore 199832,"['Indian', 'Zi Char', 'Malay', 'Supper', 'Western', 'Halal']",https://www.burpple.com/eaterz
+Kuan Kuan Spicy Hotpot & Nourishing Soup,32 Liang Seah Street Singapore 189053,"['Rainy Day Comforts', 'Chinese']",https://www.burpple.com/kuan-kuan-spicy-hotpot
+Gokul Vegetarian Restaurant (Fortune Centre),190 Middle Road #01-07 Fortune Centre Singapore 188979,"['Vegetarian', 'Indian']",https://www.burpple.com/gokul-vegetarian-restaurant
+House Of Kebab,21 Arab Street Singapore 199844,['Turkish'],https://www.burpple.com/house-of-kebab
+Going OM,63 Haji Lane Singapore 189256,[],https://www.burpple.com/going-om
+The Green Ducklings,302 Beach Road #01-06 The Concourse Skyline Singapore 199600,"['Pasta', 'Sandwiches', 'Cafes & Coffee', 'Cakes']",https://www.burpple.com/the-green-ducklings
+Alex's Eating House,87 Beach Road #01-01 Chye Sing Building Singapore 189695,"['Cheap & Good', 'Hawker Food']",https://www.burpple.com/alexs-eating-house
+Koong Woh Tong (The Bencoolen),180 Bencoolen Street #01-18 The Bencoolen Singapore 189646,['Desserts'],https://www.burpple.com/bencoolen
+Taste Restaurant (ibis Singapore on Bencoolen),170 Bencoolen Street ibis Singapore on Bencoolen Singapore 189657,"['Local Delights', 'Chinese']",https://www.burpple.com/taste-restaurant-1
+Syam Corners Muslim Food,190 Middle Road #01-08 Fortune Centre Singapore 188979,"['Malay', 'Hawker Food', 'Halal']",https://www.burpple.com/syam-corners-muslim-fod
+Create Healthy Lifestyle,190 Middle Road #02-17 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy']",https://www.burpple.com/create-healthy-lifestyle
+Chevy's Bar and Bistro,247 Beach Road Singapore 189756,['Bars'],https://www.burpple.com/chevys-bar-and-bistro
+Tong Seng LifeStyle Cafe Bar (Pahang Street),23 Pahang Street Singapore 198620,"['Local Delights', 'Peranakan', 'Cafes & Coffee']",https://www.burpple.com/lifestyle-nyonya-cafe-pahang-street
+Granny's Secret,60 Albert Street #02-07 OG Albert Complex Singapore 189969,"['Local Delights', 'Chinese', 'Hawker Food']",https://www.burpple.com/grannys-secret-by-yikouwei
+Zhu Chao Mini Wok (Albert Centre Market & Food Centre),270 Queen Street #01-63 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/zhu-chao-mini-wok
+Smoke & Pepper (Alley on 25),5 Fraser Street Level 25 Andaz Singapore Alley on 25 Singapore 189354,"['Buffets', 'BBQ', 'Burgers', 'Breakfast & Brunch']",https://www.burpple.com/smoke-pepper
+Got Luck Cafe,56 Kandahar Street Singapore 198904,"['Local Delights', 'Cafes & Coffee', 'Desserts']",https://www.burpple.com/gotlucksg
+HotCakes Vegetarian,190 Middle Road #01-33 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy', 'Cakes']",https://www.burpple.com/hotcakes-vegetarian-bakery-cafe
+LongPlay,4 Haji Lane Singapore 199732,"['Bars', 'Dinner With Drinks', 'Late Night', 'Cocktails']",https://www.burpple.com/longplay
+Chick-It,3 New Bugis Street #MSQ 15-01 Singapore 188867,"['Korean', 'Korean Fried Chicken']",https://www.burpple.com/chickit
+Yatkayan Dessert,190 Middle Road #02-08 Singapore 188979,"['Local Delights', 'Desserts', 'Chinese']",https://www.burpple.com/yatkayan-dessert
+Let's Eat (DUO Galleria),7 Fraser Street #01-40-47 DUO Galleria Singapore 189356,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/lets-eat-duo-galleria
+Soulfood Catering,13 Pahang Street Singapore 198614,"['Malay', 'Nasi Lemak', 'Hawker Food']",https://www.burpple.com/soulfood-catering-77-aliwal-streetsingapore-199948
+Fun Toast (Raffles Hospital),585 North Bridge Road #01-09 Raffles Hospital Singapore 188770,"['Local Delights', 'Bread', 'Cafes & Coffee']",https://www.burpple.com/fun-toast-raffles-hospital
+The Pastry Empire,30 Bali Lane Singapore 189866,"['Desserts', 'Waffles', 'Cakes']",https://www.burpple.com/the-pastry-empire
+Star Cinnamon,200 Victoria Street #B1-K2 Bugis Junction Singapore 188021,"['Bread', 'Desserts']",https://www.burpple.com/star-cinnamon
+Sauté,470 North Bridge Road #02-08 Bugis Cube Singapore 188735,"['Vegetarian', 'Healthy']",https://www.burpple.com/saute
+Awesome Coffee,200 Victoria Street #B1-K25 Bugis Junction Singapore 188021,"['Pasta', 'Cafes & Coffee', 'Desserts', 'Cakes']",https://www.burpple.com/awesome-coffee-roaster-co
+Koh Nangkam,4/6 Jalan Kledek Singapore 199261,"['Thai', 'Halal']",https://www.burpple.com/koh-nangkam-restoran
+Nana's Green Tea (DUO Galleria),7 Fraser Street #01-38/39 DUO Galleria Singapore 189356,"['Ice Cream & Yoghurt', 'Japanese', 'Desserts']",https://www.burpple.com/nanas-green-tea-duo-galleria
+Mae Noi Thai Food,3 New Bugis Street #03-38 Singapore 188867,"['Thai', 'Hawker Food']",https://www.burpple.com/mae-noi-thai-food
+Kopi Place,7 Fraser Street #B3-05 DUO Galleria Singapore 189356,['Cafes & Coffee'],https://www.burpple.com/kopi-place
+Li Yuan Eating House,149 Rochor Road #B1-22 Fu Lu Shou Complex Singapore 188425,"['Kopitiam', 'Hawker Food']",https://www.burpple.com/li-yuan-eating-house
+The Pastry Empire,30 Bali Lane Singapore 189866,"['Desserts', 'Waffles', 'Cakes']",https://www.burpple.com/the-pastry-empire
+Star Cinnamon,200 Victoria Street #B1-K2 Bugis Junction Singapore 188021,"['Bread', 'Desserts']",https://www.burpple.com/star-cinnamon
+Sauté,470 North Bridge Road #02-08 Bugis Cube Singapore 188735,"['Vegetarian', 'Healthy']",https://www.burpple.com/saute
+Awesome Coffee,200 Victoria Street #B1-K25 Bugis Junction Singapore 188021,"['Pasta', 'Cafes & Coffee', 'Desserts', 'Cakes']",https://www.burpple.com/awesome-coffee-roaster-co
+Kumoya,8 Jalan Klapa Singapore 199320,"['Interesting', 'Japanese', 'Desserts', 'Breakfast & Brunch', 'Halal']",https://www.burpple.com/kumoya-singapore
+Seriously Keto,32 Seah Street Singapore 188388,"['Healthy', 'Bread', 'Desserts', 'Cakes']",https://www.burpple.com/seriously-keto-singapore
+Oriental Elixir,10 Haji Lane Level 2 Singapore 189203,"['Bars', 'Cocktails']",https://www.burpple.com/orientalelixir
+Flying Monkey,67 Bussorah Street Singapore 199480,"['Bars', 'Indian', 'Dinner With Drinks', 'Cocktails']",https://www.burpple.com/flying-monkey
+Alley on 25,5 Fraser Street Level 25 Andaz Singapore Singapore 189354,"['Great View', 'Date Night']",https://www.burpple.com/alley-on-25
+Makan Koryouri,32 Kandahar Street Singapore 198891,['Japanese'],https://www.burpple.com/makan-koryouri
+The Royals Steakhouse,10 Jalan Pisang Singapore 199077,"['Steak', 'Western', 'Halal']",https://www.burpple.com/the-royals-steakhouse
+Fatty Thai,341 Beach Road Singapore 199567,['Thai'],https://www.burpple.com/fatty-thai
+Xiang Signature,1 Liang Seah Street #01-12/13/14 Singapore 189022,"['Good For Groups', 'Chinese']",https://www.burpple.com/xiang-signature
+Dreamworks Koukou Cafe,201 Victoria Street #05-04/05/06 Bugis+ Singapore 188067,"['Interesting', 'Chinese']",https://www.burpple.com/dreamworks-koukou-cafe
+Koo Kee Yong Tow Foo Mee (Albert Centre Market & Food Centre),270 Queen Street #01-71 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/koo-kee-yong-tow-foo-albert-market
+Reddo Sushi,201 Victoria Street #04-13 Bugis+ Singapore 188067,"['Sushi', 'Japanese']",https://www.burpple.com/reddo-sushi
+Toast Box (NAFA),80 Bencoolen Street #B1-17 Campus 1 Singapore 189655,"['Local Delights', 'Bread', 'Cafes & Coffee', 'Breakfast & Brunch']",https://www.burpple.com/toastbox-nafa
+Kampong Glam Cafe,17 Bussorah Street . Singapore 199438,"['Local Delights', 'Cafes & Coffee', 'Supper', 'Hawker Food', 'Halal']",https://www.burpple.com/kampong-glam-cafe
+Ming Tang Spicy Roast Fish,470 North Bridge Road #01-03 Bugis Cube Singapore 188735,"['Rainy Day Comforts', 'Supper', 'Good For Groups', 'Chinese']",https://www.burpple.com/spicy-roast-fish
+Hood Bar & Music,201 Victoria Street #05-07 Bugis+ Singapore 188067,"['Dinner With Drinks', 'Cafes & Coffee', 'Late Night', 'Craft Beer', 'Western']",https://www.burpple.com/hood-bar-and-music
+Rockery,200 Victoria Street #01-61A/61 Bugis Junction Singapore 188021,['Desserts'],https://www.burpple.com/rockery
+Ma Bo Lor Mee (Albert Centre Market & Food Centre),270 Queen Street #01-67 Albert Centre Market & Food Centre Singapore 180270,"['Rainy Day Comforts', 'Cheap & Good', 'Hawker Food']",https://www.burpple.com/ma-bo-lor-mee
+Pine Tree Cafe,190 Middle Road #02-09/13 Fortune Centre Singapore 188979,"['Local Delights', 'Vegetarian', 'Healthy', 'Cafes & Coffee']",https://www.burpple.com/pine-tree-cafe
+Hock Lee Fishball Noodle (Albert Centre Market & Food Centre),270 Queen Street #01-102 Albert Centre Market & Food Centre Singapore 180270,['Hawker Food'],https://www.burpple.com/hock-lee-fishball-noodle
+An Acai Affair (DUO Galleria),7 Fraser Street #B3-06 DUO Galleria Singapore 189356,"['Healthy', 'Desserts']",https://www.burpple.com/anacaiaffair-duo-galleria
+Mooi Chin Place,390 Victoria Street #03-12A Village Hotel Bugis Singapore 188061,"['Good For Groups', 'Chinese']",https://www.burpple.com/mooi-chin-golden-landmark
+Asian Rad Afters,33 Bali Lane Singapore 189869,"['Ice Cream & Yoghurt', 'Desserts']",https://www.burpple.com/asian-rad-afters
